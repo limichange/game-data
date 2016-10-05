@@ -1,6 +1,11 @@
 # game-data
 游戏资料收集
 
+## WOW
+
+ - http://www.battlenet.com.cn/wow/zh/item/
+ - http://us.battle.net/wow/en/item/
+
 ## 最终幻想
 
  - http://ff1.ffsky.cn/
